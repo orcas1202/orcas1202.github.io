@@ -17,7 +17,5 @@ int main ()
 }
 
 ```
-## 22
-### 33
-qwerqwrqw
+
 
