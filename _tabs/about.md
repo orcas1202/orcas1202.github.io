@@ -8,7 +8,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-十级bo学家，家住昆山，现居成都。\
+家住昆山，现居成都。\
 App : Deadline 作者
 
 - email : orcasluo@gmail.com
@@ -19,4 +19,3 @@ App : Deadline 作者
 
 Hosted by Github pages, Powered by Jekyll\
 Theme : Chirpy
-
