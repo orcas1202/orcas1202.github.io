@@ -21,7 +21,7 @@ timezone: Asia/Shanghai
 
 title: 放虎归山                          # the main title
 
-tagline: 拒绝普罗米修斯式的人，做心满意足的牛  # it will display as the sub-title
+tagline: "null"  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   personal website.
