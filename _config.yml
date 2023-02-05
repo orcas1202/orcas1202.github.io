@@ -19,9 +19,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 0scar's blog                          # the main title
+title: 放虎归山                         # the main title
 
-tagline: art,history,creativity & sharing!   # it will display as the sub-title
+tagline: n u l l   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   personal website.
